@@ -1,6 +1,6 @@
-use aoc2022::day03;
+use aoc2022::day04;
 
 fn main() {
-    println!("Part 1: {}", day03::part1());
-    println!("Part 2: {}", day03::part2());
+    println!("Part 1: {}", day04::part1());
+    println!("Part 2: {}", day04::part2());
 }
